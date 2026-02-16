@@ -44,7 +44,6 @@ I'm a dedicated student at **[1337 (42 Network)](https://1337.ma/)**, one of the
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 #### **DevOps & Virtualization**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 #### **Debugging & Profiling**
@@ -124,24 +123,6 @@ I'm a dedicated student at **[1337 (42 Network)](https://1337.ma/)**, one of the
       <td>Sorting data on a stack with limited instructions</td>
       <td>🔄 In Progress</td>
       <td><code>C</code> <code>Algorithms</code></td>
-    </tr>
-    <tr>
-      <td><b>So_long</b></td>
-      <td>A small 2D game using MinilibX</td>
-      <td>🔄 In Progress</td>
-      <td><code>C</code> <code>Graphics</code></td>
-    </tr>
-    <tr>
-      <td><b>Pipex</b></td>
-      <td>Recreating the pipe behavior in shell</td>
-      <td>📅 Upcoming</td>
-      <td><code>C</code> <code>Processes</code></td>
-    </tr>
-    <tr>
-      <td><b>Philosophers</b></td>
-      <td>Introduction to threading and mutexes</td>
-      <td>📅 Upcoming</td>
-      <td><code>C</code> <code>Threads</code></td>
     </tr>
   </tbody>
 </table>
