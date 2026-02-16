@@ -206,26 +206,6 @@ t_goals my_2024_goals = {
 
 ---
 
-### 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-### 😄 Random Dev Joke
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-</div>
-
----
-
 ### 📊 Profile Views
 
 <div align="center">
