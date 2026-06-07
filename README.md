@@ -19,7 +19,6 @@ I'm a dedicated student at **[1337 (42 Network)](https://1337.ma/)**, one of the
 - 👯 **Looking to collaborate on:** Open-source C projects and 42 network projects
 - 💬 **Ask me about:** C, Linux, Shell Scripting, Git, Algorithms
 - ⚡ **Fun fact:** I debug with printf() and I'm proud of it! 🐛
-- 🎯 **2024 Goals:** Complete the 42 common core and contribute to open source
 - 📍 **Location:** Morocco 🇲🇦
 
 ---
@@ -79,53 +78,6 @@ I'm a dedicated student at **[1337 (42 Network)](https://1337.ma/)**, one of the
 <div align="center">
   <img src="https://raw.githubusercontent.com/HamzaLaaz/HamzaLaaz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
----
-
-### 🚀 42 Network Projects
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Status</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Libft</b></td>
-      <td>My own implementation of the C Standard Library</td>
-      <td>✅ Completed</td>
-      <td><code>C</code> <code>Make</code></td>
-    </tr>
-    <tr>
-      <td><b>Get_Next_Line</b></td>
-      <td>Reading a line from a file descriptor efficiently</td>
-      <td>✅ Completed</td>
-      <td><code>C</code> <code>Buffers</code></td>
-    </tr>
-    <tr>
-      <td><b>ft_printf</b></td>
-      <td>Reimplementation of the printf function</td>
-      <td>✅ Completed</td>
-      <td><code>C</code> <code>Variadic</code></td>
-    </tr>
-    <tr>
-      <td><b>Born2beroot</b></td>
-      <td>Setting up a secure Linux server with virtualization</td>
-      <td>✅ Completed</td>
-      <td><code>VirtualBox</code> <code>Debian</code> <code>SSH</code></td>
-    </tr>
-    <tr>
-      <td><b>Push_swap</b></td>
-      <td>Sorting data on a stack with limited instructions</td>
-      <td>🔄 In Progress</td>
-      <td><code>C</code> <code>Algorithms</code></td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
